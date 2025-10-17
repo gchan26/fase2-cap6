@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime
-
+1
 ORDENS_DE_ENTREGA = []
 ARQUIVO_JSON = 'ordens_entrega.json'
 ARQUIVO_LOG_TEXTO = 'log_rastreamento.txt'
