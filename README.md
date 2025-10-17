@@ -50,12 +50,12 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 1. **Baixar o código**
    ```bash
    git clone https://github.com/gchan26/fase2-cap6.git
-   cd agrorota
+   cd fase2-cap6
    ```
 
 2. **Executar o script principal**
    ```bash
-   python src/main.py
+   python src/Cap6Fase2.py
    ```
 
 3. **Navegar pelo menu**
